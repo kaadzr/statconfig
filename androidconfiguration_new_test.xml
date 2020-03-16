@@ -24,6 +24,9 @@
       <param description="Разблокировка карты. Умный поиск" id="CardUnblockingSmartSearch">
         <pair id="enabled">true</pair>
     </param>
+	<param description="Разблокировка карты. Диплинки" id="CardUnblockingDeeplink">
+        <pair id="enabled">true</pair>
+    </param>
     <param description="Перевод с кредитной карты между своими" id="UseTransferFromCreditCard">
         <pair id="enabled">false</pair>
     </param>
