@@ -14794,6 +14794,9 @@ st                <pair id="renameRecognizedOperations">true</pair>
      <param description="Мультивалютная карта в МП. Список счетов" id="MultiCurrencyCardAccountsList">
         <pair id="enabled">true</pair>
     </param>
+	<param name="MultiCurrencyCardDeeplink" description="Мультивалютная карта. Переход по Deeplink ">
+		<pair id = "enabled">true</pair>
+	</param>
     <param description="Скрытие операций по дополнительной карте, которые должны быть недоступны для держателя основной карты"
            id="hideOperationsCardCLIENT2OTHER">
         <pair id="enabled">true</pair>
